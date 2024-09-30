@@ -22,3 +22,6 @@ L'application **HelloToast** a également été implémentée en utilisant un `L
 1. Clonez le projet.
 2. Ouvrez-le dans Android Studio.
 3. Lancez l'application sur un émulateur ou un appareil Android.
+
+## Video descriptif
+[exo1 video.webm](https://github.com/user-attachments/assets/937e1e7e-7911-493f-9d17-8795fe3d528e)
